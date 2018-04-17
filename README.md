@@ -10,6 +10,8 @@ The above can be a potential security problem but as these are tests and this wa
 
 ## Running the tests
 
-these tests assume you have jq installed. if its missing please install with the following command on a mac.
+These tests assume you have jq installed. If its missing please install with the following command on a mac.
+
+Obviously, you also need to have the obtest.py running.
 
 `brew install jq`
